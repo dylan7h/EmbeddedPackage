@@ -10,3 +10,9 @@
 [submodule "ToolChain"]
 	path = ToolChain
 	url = git@github.com:dylan7h/ToolChain.git
+[submodule "nfs-root"]
+	path = nfs-root
+	url = git@github.com:dylan7h/nfs-root.git
+[submodule "tftp-root"]
+	path = tftp-root
+	url = git@github.com:dylan7h/tftp-root.git
