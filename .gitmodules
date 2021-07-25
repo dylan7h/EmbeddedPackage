@@ -1,0 +1,12 @@
+[submodule "u-boot-bl"]
+	path = u-boot-bl
+	url = git@github.com:dylan7h/u-boot-bl.git
+[submodule "buildroot-rootfs"]
+	path = buildroot-rootfs
+	url = git@github.com:dylan7h/buildroot-rootfs.git
+[submodule "linux-kernel"]
+	path = linux-kernel
+	url = git@github.com:dylan7h/linux-kernel.git
+[submodule "ToolChain"]
+	path = ToolChain
+	url = git@github.com:dylan7h/ToolChain.git
